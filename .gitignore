@@ -1,0 +1,6 @@
+# untracked files
+./car_detection_dataset
+./self_driving_dataset
+./test.ipynb
+./datasets
+./*.pt
