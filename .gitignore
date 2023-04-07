@@ -1,8 +1,10 @@
 # Untracked files
 car_detection_dataset/
 self_driving_dataset/
-test.ipynb
 datasets/
+*.pt
+car_detection.yaml
+self_driving.yaml
 
 
 # Byte-compiled / optimized / DLL files
