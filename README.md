@@ -1,2 +1,2 @@
 # CSC2503_project
-Object Detection
+Object detection on vehicle dataset
